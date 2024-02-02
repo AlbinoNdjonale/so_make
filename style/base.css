@@ -1,0 +1,48 @@
+:root {
+    --bg: #228;
+    --color-main: #eee;
+    --bg-main: #ededed;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.wrapper-conny {
+    display: flex;
+    justify-content: right;
+}
+
+.conny {
+    width: 70%;
+    max-width: 450px;
+    right: 0;
+}
+
+h2 {
+    padding: 10px 7px;
+}
+
+.btn {
+    padding: 13px;
+    border: none;
+    font-weight: bold;
+    color: #eee;
+    background: linear-gradient(
+      16deg,
+      #56b6f2,
+      #9f33ff 50%,
+      #ee4c95,
+      #ff6d62
+    );
+
+    border-radius: .4rem;
+    width: 100%;
+    max-width: 400px;
+    cursor: pointer;
+}
+
+#wrapper-btn {
+    padding: 5px;
+}
