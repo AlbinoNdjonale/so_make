@@ -84,3 +84,8 @@ body {
     max-width: 630px;
     text-align: justify;
 }
+
+#cta {
+    font-weight: bold;
+    font-size: 25px;
+}

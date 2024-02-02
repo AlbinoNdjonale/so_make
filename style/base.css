@@ -24,6 +24,10 @@ h2 {
     padding: 10px 7px;
 }
 
+h2 span {
+    color: var(--bg);
+}
+
 .btn {
     padding: 13px;
     border: none;
